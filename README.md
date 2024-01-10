@@ -4,6 +4,10 @@ This Tableau dashboard visualizes and analyzes house sales data for King County.
 
 ![Tableau - Book1 10_01_2024 18_18_10](https://github.com/psrane8/King-County-Sales-Dashboard-using-Tableau/assets/49234060/89aa2767-1e43-4f95-85bd-17812cf9f3ba)
 
+
+https://github.com/psrane8/King-County-Sales-Dashboard-using-Tableau/assets/49234060/4d5e6a24-c5d6-4db4-b26a-aa6377c0b182
+
+
 ## Data
 The data file `HouseData.xlsx` contains the following attributes for each King County home sale:
 
